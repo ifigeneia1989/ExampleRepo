@@ -38,4 +38,9 @@ logger.error("Our First ERROR Message")
 
 # COMMAND ----------
 
+# MAGIC %sh
+# MAGIC ls
+
+# COMMAND ----------
+
 
